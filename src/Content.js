@@ -39,6 +39,15 @@ const Content = () => (
       </a>
       .{" "}
     </p>
+    <p>
+      Here is source for this{" "}
+      <a href="https://dark-mode-react-demo.vercel.app">particular app</a> or
+      see the this app{" "}
+      <a href="https://github.com/coding-to-music/dark-mode-react-demo">
+        source code on Github
+      </a>
+      .{" "}
+    </p>
   </div>
 );
 
